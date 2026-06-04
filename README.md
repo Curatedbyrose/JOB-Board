@@ -569,17 +569,7 @@
   </div>
 
   <!-- ──────────────────────────────────────── -->
-  <div class="tip-box">
-    <h3>📋 How to Host This Page on GitHub (Free)</h3>
-    <ol>
-      <li>Go to <strong>github.com</strong> and sign in (or create a free account)</li>
-      <li>Click <strong>+ → New repository</strong> — name it <code>crystal-cole-jobs</code> (or anything you like)</li>
-      <li>Check <strong>"Add a README file"</strong>, then click <strong>Create repository</strong></li>
-      <li>Click <strong>Add file → Upload files</strong> and upload this <code>index.html</code> file</li>
-      <li>Go to <strong>Settings → Pages → Source</strong> — set branch to <code>main</code> and click Save</li>
-      <li>Your live link will be: <code>https://YOUR-USERNAME.github.io/crystal-cole-jobs/</code></li>
-      <li>Share that link on your resume, LinkedIn, or in job applications!</li>
-    </ol>
+
   </div>
 
 </main>
